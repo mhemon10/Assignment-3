@@ -1,0 +1,16 @@
+#banner {
+    background-image: url("c1-assets/cat-big.png");
+    background-position: bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+@media (max-width: 767px) {
+    #banner {
+        
+        /* display: flex;
+        flex-direction: column; */
+        background-position: ;
+        
+    }
+        
+}
